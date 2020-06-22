@@ -1,10 +1,21 @@
 {
     "name": "doctorconceptual/php-instagram-graph-sdk",
-    "version": "1",
+    "description": "PHP SDK for Instagram Graph API",
+    "keywords": ["Instagram Basic Display API SDK", "Instagram SDK", "Instagram Graph API SDK"],
+    "homepage": "https://github.com/doctorconceptual/php-instagram-graph-sdk",
+    "license": "MIT",
     "authors": [
         {
             "name": "Muhammad Talal",
             "email": "mtalal@mtalal.net"
         }
     ],
+    "require": {
+        "php": ">=5.4.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/instagram.php",
+        ]
+    }
 }

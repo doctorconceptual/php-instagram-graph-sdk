@@ -1,6 +1,6 @@
 <?php
 
-// TODO: take this class to git & composer.
+namespace Instagram;
 
 class Instagram {
 
