@@ -1,0 +1,10 @@
+{
+    "name": "doctorconceptual/php-instagram-graph-sdk",
+    "version": "1",
+    "authors": [
+        {
+            "name": "Muhammad Talal",
+            "email": "mtalal@mtalal.net"
+        }
+    ],
+}
