@@ -17,7 +17,7 @@ Installation
 The preferred installation method is via composer. You can add the library
 as a dependency via:
 
-$ composer require doctorconceptual/php-instagram-graph-sdk
+`$ composer require doctorconceptual/php-instagram-graph-sdk`
 
 Usage
 -----
