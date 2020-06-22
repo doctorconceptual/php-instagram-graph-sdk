@@ -15,7 +15,7 @@
     },
     "autoload": {
         "classmap": [
-            "src/instagram.php",
+            "src/instagram.php"
         ]
     }
 }
