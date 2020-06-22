@@ -1,6 +1,8 @@
 
 <h1>PHP SDK for Instagram Graph API.</h1>
 
+This is a basic SDK for using Instagram Graph API. I basically wrote this SDK when I found that Instagram is going to shutdown their legacy API and encourage to use "Instagram Basic Display API" instead. 
+
 Copyright & License
 -------------------
 PHP SDK for Instagram Graph API is
