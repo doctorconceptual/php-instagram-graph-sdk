@@ -1,5 +1,5 @@
 
-PHP SDK for Instagram Graph API.
+<h1>PHP SDK for Instagram Graph API.</h1>
 
 Copyright & License
 -------------------
