@@ -211,7 +211,10 @@ class Instagram {
 		if ($fields)
 			$params = ['fields' => $fields];
 
-		return $this->fetch(sprintf('https://graph.instagram.com/%s/media', $ig_user_id), $params);
+		return $this->fetch(
+			sprintf('https://graph.instagram.com/%s/media', $ig_user_id), 
+			$params
+		);
 	}
 
 	/**
@@ -227,7 +230,10 @@ class Instagram {
 		if ($fields)
 			$params = ['fields' => $fields];
 
-		return $this->fetch(sprintf('https://graph.instagram.com/%s', $ig_media_id), $params);
+		return $this->fetch(
+			sprintf('https://graph.instagram.com/%s', $ig_media_id), 
+			$params
+		);
 	}
 
 	/**
